@@ -2,7 +2,7 @@ name: Add new issue to Triage column in projectboard
 
 on:
   issues:
-    types: [opened]
+    types: [opened, reopened]
 jobs:
   Add_New_Issue_To_Project:
     runs-on: ubuntu-latest
