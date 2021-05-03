@@ -1,7 +1,7 @@
 # Issue labeler based on body content
 
 # ## Issue labels
-# Bug and Feature labels are added via the template.
+# Bug, Feature and triage labels are added via the template.
 
 # ## Produc labels
 #Add 'product:cost management' if issue contains the selection cost management
