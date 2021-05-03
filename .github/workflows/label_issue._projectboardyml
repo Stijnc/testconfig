@@ -1,0 +1,33 @@
+name: Move labeled issues on project board
+
+on:
+  issues:
+    types: [labeled]
+jobs:
+  Move_Labeled_Issue_On_Project_Board:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: konradpabjan/move-labeled-or-milestoned-issue@v2.0
+      name: Process commited issues
+      with:
+        action-token: "${{ secrets.ACCESS_TOKEN }}"
+        project-url: "https://github.com/stijnc/testconfig/projects/1"
+        column-name: "Commited"
+        label-name: "commited"
+        columns-to-ignore: "Done"
+    - uses: konradpabjan/move-labeled-or-milestoned-issue@v2.0
+      name: Process planned issues
+      with:
+        action-token: "${{ secrets.ACCESS_TOKEN }}"
+        project-url: "https://github.com/stijnc/testconfig/projects/1"
+        column-name: "Planned"
+        label-name: "planned"
+        columns-to-ignore: "Done"
+    - uses: konradpabjan/move-labeled-or-milestoned-issue@v2.0
+      name: Process in-progress issues
+      with:
+        action-token: "${{ secrets.ACCESS_TOKEN }}"
+        project-url: "https://github.com/stijnc/testconfig/projects/1"
+        column-name: "In progress"
+        label-name: "in-progess"
+        columns-to-ignore: "Done"
