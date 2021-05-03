@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: DexMach DexPorts forum
+    url: https://github.com/dexmach/dexports/discussions
+    about: For questions, please ask in Discussions
+  - name: DexMach Support
+    url: https://support.dexmach.com/contact
+    about: Contact Support if you're having trouble with your DexPorts report access.
