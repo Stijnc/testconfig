@@ -10,24 +10,24 @@
 
 #Add 'product:compliancy' if issue contans the selection compliancy
 "[product] compliancy":
-  - '([x] Compliancy)'
+  - '(\[x\] Compliancy)'
 
 #Add 'product:service delivery' if issue contans the selection serviced elivery
 "[product] service delivery":
-  - '([x] Service Delivery)'
+  - '(\[x\] Service Delivery)'
 
 #Add 'product:project planning' if issue contans the selection project planning
 "[product] project planning":
-  - '([x] Project Planning)'
+  - '(\[x\] Project Planning)'
 
 #Add 'product:wvd' if issue contans the selection wvd
 "[product] wvd":
-  - '([x] Windows Virtual desktop (WVD))'
+  - '(\[x\] Windows Virtual desktop (WVD))'
 
 #Add 'product:aks' if issue contans the selection aks
 "[product] aks":
-  - '([x] Azure Kubernetes Service (AKS))'
+  - '(\[x\] Azure Kubernetes Service (AKS))'
 
 #Add 'product:aks' if issue contans the selection aks
 "[product] dexmove":
-  - '([x] DexMove)'
+  - '(\[x\] DexMove)'
