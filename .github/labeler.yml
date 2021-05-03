@@ -28,3 +28,6 @@
 "[product] aks":
   - '([x] Azure Kubernetes Service (AKS))'
 
+#Add 'product:aks' if issue contans the selection aks
+"[product] dexmove":
+  - '([x] DexMove)'
