@@ -1,7 +1,0 @@
-# Configuration for welcome - https://github.com/behaviorbot/welcome
-
-# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
-
-# Comment to be posted to on first time issues
-newIssueWelcomeComment: >
-  Thanks for opening your issue here! A DexMach team member should pop by to give feedback soon.
