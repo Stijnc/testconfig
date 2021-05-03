@@ -29,5 +29,5 @@ jobs:
         action-token: "${{ secrets.ACCESS_TOKEN }}"
         project-url: "https://github.com/stijnc/testconfig/projects/1"
         column-name: "In progress"
-        label-name: "in-progess"
+        label-name: "in-progress"
         columns-to-ignore: "Done"
