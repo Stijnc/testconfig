@@ -1,5 +1,5 @@
 ---
-name: ":sparkles: Improve our product"
+name: "✨ Improve our product"
 about: Make a suggestion to improve our existing products.
 title: ''
 labels:
