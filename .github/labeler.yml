@@ -4,9 +4,9 @@
 # Bug and Feature labels are added via the template.
 
 # ## Produc labels
-#Add 'product:cost management' if issue contans the selection cost management
+#Add 'product:cost management' if issue contains the selection cost management
 "[product] cost management":
-  - '([x] Cost management)'
+  - '\[x\] Cost management'
 
 #Add 'product:compliancy' if issue contans the selection compliancy
 "[product] compliancy":
