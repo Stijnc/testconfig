@@ -3,7 +3,7 @@ name: "🐞 Bug report"
 about: "Create a report to help us improve."
 title: '[Bug]: '
 labels:
-- ":beetle: bug"
+- "bug"
 - "needs triage"
 assignees: ''
 body:
