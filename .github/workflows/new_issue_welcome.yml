@@ -1,3 +1,5 @@
+name: "Welcome on new issue"
+
 on:
   issues:
     types: [opened]
