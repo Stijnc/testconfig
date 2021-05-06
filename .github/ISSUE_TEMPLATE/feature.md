@@ -3,8 +3,8 @@ name: "✨ Improve our product"
 about: Make a suggestion to improve our existing products.
 title: ''
 labels:
-- "enhancement"
-- "needs triage"
+- "feature"
+- "triage"
 assignees: ''
 ---
 
