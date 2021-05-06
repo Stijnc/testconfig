@@ -61,6 +61,9 @@
 - name: "invalid"
   color: "cdc9c3"
   description: "not accepted as valid input"
+- name: "no-issue-activity"
+  color: "cdc9c3"
+  description: "no activity"
 #addition
 - name: "feature"
   color: "a7e9af"
