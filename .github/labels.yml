@@ -7,6 +7,9 @@
 - name: "security"
   color: "d8345f"
   description: "security, security"
+- name: "dependencies"
+  color: "d8345f"
+  description: "github dependabot"
 #feedback
 - name: "discussion"
   color: "856c8b"
